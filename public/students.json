@@ -1,0 +1,37 @@
+{
+  "students":[
+    {
+      "reg_no":123,
+      "marks":[
+        {
+          "malayalam":50,
+          "english":50,
+          "hindi":50,
+          "maths":50
+        }
+      ]
+    },
+    {
+      "reg_no":124,
+      "marks":[
+        {
+          "malayalam":50,
+          "english":10,
+          "hindi":20,
+          "maths":30
+        }
+      ]
+    },
+    {
+      "reg_no":125,
+      "marks":[
+        {
+          "malayalam":50,
+          "english":20,
+          "hindi":5,
+          "maths":5
+        }
+      ]
+    }
+  ]
+}
